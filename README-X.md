@@ -2,16 +2,7 @@
 
 # sixteen_segment_display
 
-## Table of Contents
-- [Overview](#overview)
-- [PCB](#pcb)
-  - [display_group](#display_group)
-  - [interface](#interface)
-  - [display_group_and_interface](#display_group_and_interface)
-  - [driver](#driver)
-- [Software](#software)
-  - [SegmentStates](#segmentstates)
-  - [SegmentDriver](#segmentdriver)
+<!-- #toc -->
 
 ## Overview
 
